@@ -16,6 +16,14 @@
 
 
 
+## 业主大会
+
+**业主大会**是由同一个[物业管理区域](http://wiki.mbalib.com/wiki/%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%E5%8C%BA%E5%9F%9F)内全体[业主](http://wiki.mbalib.com/wiki/%E4%B8%9A%E4%B8%BB)组成的，代表和维护[物业管理区域](http://wiki.mbalib.com/wiki/%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%E5%8C%BA%E5%9F%9F)内全体[业主](http://wiki.mbalib.com/wiki/%E4%B8%9A%E4%B8%BB)在物业管理活动中的合法权益的自治管理组织。[《物业管理条例》](http://wiki.mbalib.com/wiki/%E3%80%8A%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BE%8B%E3%80%8B)规定，一个物业管理区域成立一个业主大会。物业管理区域的划分应当考虑[物业](http://wiki.mbalib.com/wiki/%E7%89%A9%E4%B8%9A)的共用设施设备、建筑物规模、[社区建设](http://wiki.mbalib.com/wiki/%E7%A4%BE%E5%8C%BA%E5%BB%BA%E8%AE%BE)等因素。业主大会不能组织与物业管理活动无关的其他活动。业主大会自首次业主大会会议召开之日起成立。
+
+
+
+
+
 ## 业主公约
 
 业主公约是[物业管理区域](http://wiki.mbalib.com/wiki/%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%E5%8C%BA%E5%9F%9F)内的全体[业主](http://wiki.mbalib.com/wiki/%E4%B8%9A%E4%B8%BB)就[建筑物](http://wiki.mbalib.com/wiki/%E5%BB%BA%E7%AD%91%E7%89%A9)的管理、使用、维护与所有关系等各个方面所达成的书面形式的自治规则。
@@ -81,6 +89,7 @@ TODO : 业委会章程的修订通过条件需要考虑
 
 ## 参考资料
 
+* [业主大会](http://wiki.mbalib.com/wiki/%E4%B8%9A%E4%B8%BB%E5%A4%A7%E4%BC%9A)
 * [业主公约](http://wiki.mbalib.com/wiki/%E4%B8%9A%E4%B8%BB%E5%85%AC%E7%BA%A6)
 * [业主委员会章程](http://wiki.mbalib.com/wiki/%E4%B8%9A%E4%B8%BB%E5%A7%94%E5%91%98%E4%BC%9A%E7%AB%A0%E7%A8%8B)
 * [业主大会议事规则](http://wiki.mbalib.com/wiki/%E4%B8%9A%E4%B8%BB%E5%A4%A7%E4%BC%9A%E8%AE%AE%E4%BA%8B%E8%A7%84%E5%88%99)
